@@ -1,0 +1,9 @@
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.exe.config
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.exe
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.pdb
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.csprojResolveAssemblyReference.cache
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.Form1.resources
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.Properties.Resources.resources
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.csproj.GenerateResource.Cache
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.exe
+c:\users\xingzhe\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.pdb

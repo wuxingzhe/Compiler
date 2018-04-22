@@ -1,0 +1,7 @@
+begin
+    i4:=3.56;
+    slow:=i4*4,j=i4/2;
+    while(slow>=4)
+       if(slow=2)
+         j=j*7;
+end
